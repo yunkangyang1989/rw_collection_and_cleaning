@@ -39,7 +39,7 @@ def article_data_frame(sf, save_file):
     # fill data frame
     for idx in range(len(sf)):
         # data reproduced from mdeia cloud csv
-        date = sf['date'][idx]
+        date = sf['publish_date'][idx]
         url = sf['url'][idx]
         title = sf['title'][idx]
         site = sf['media_name'][idx]
@@ -81,7 +81,7 @@ def clean_html(article):
         return article
 
 
-def clean_trending_blp(article):
+def clean_trending_all(article):
     """
     method to clean trending links embedded in big league politcs
     :param article:
@@ -90,20 +90,53 @@ def clean_trending_blp(article):
     embedded_list = re.findall(r'\n\nTrending:(.*?)\n\n', article)
     for e in embedded_list:
         article = article.replace('\n\nTrending:', '',).replace(e, ' ')
+    embedded_list = re.findall(r'\n\nRELATED:(.*?)\n\n', article)
+    for e in embedded_list:
+        article = article.replace('\n\nRELATED:', '', ).replace(e, ' ')
+    embedded_list = re.findall(r'\n\nWATCH:(.*?)\n\n', article)
+    for e in embedded_list:
+        article = article.replace('\n\nWATCH:', '', ).replace(e, ' ')
     return article
 
 
-def clean_trending_wjc(article):
+def clean_wnd(article):
     """
-    method to clean trending links embedded in Western Journalism Center
+    method to clean Related columns: & Related stories: at end of wnd articles
     :param article:
     :return:
     """
-    embedded_list = re.findall(r'\n\nTrending:(.*?)\n\n', article)
-    for e in embedded_list:
-        article = article.replace('\n\nTrending:', '',).replace(e, ' ')
-    embedded_list = re.findall(r'\n\nRELATED:(.*?)\n\n', article)
-    for e in embedded_list:
-        article = article.replace('\n\nRELATED:', '',).replace(e, ' ')
-    return article
+    try:
+        art = article.split("Related columns:\n\n")
+        return art[0]
+    except Exception as e:
+        return article
+
+
+def clean_wjc(art):
+    a = art.replace("We are committed to truth and accuracy in all of our journalism. Read our editorial standards.",
+                    "")
+    return a
+
+
+def clean_jpost(art):
+    x = "Dear Reader, As you can imagine, more people are reading The Jerusalem Post than ever before. Nevertheless, traditional business models are no longer sustainable and high-quality publications, like ours, are being forced to look for new ways to keep going. Unlike many other news organizations, we have not put up a paywall. We want to keep our journalism open and accessible and be able to keep providing you with news and analysis from the frontlines of Israel, the Middle East and the Jewish World."
+    y = "Join Jerusalem Post Premium Plus now for just $5 and upgrade your experience with an ads-free website and exclusive content. Click here"
+    a = art.replace(x, "").replace(y, "")
+    return a
+
+
+def clean_wash_times(art):
+    x = "Copyright © 2019 The Washington Times, LLC. Click here for reprint permission."
+    a = art.replace(x, "")
+    return a
+
+
+def clean_fox_transcript(art):
+    x = 'This copy may not be in its final form and may be updated.'
+    y = 'Content and Programming Copyright'
+    try:
+        a = art.split(x)[1].split(y)[0]
+        return a
+    except Exception as e:
+        return art
 

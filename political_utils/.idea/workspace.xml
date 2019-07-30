@@ -2,9 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effe3af3-02ce-476f-9b6a-797c25519920" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../downloading_articles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../downloading_articles.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/clustering.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gathering.py" beforeDir="false" afterPath="$PROJECT_DIR$/gathering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/bow_encoder__1Source_kav_0719.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/bow_encoder__1Source_kav_0719.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/data/df_kav_w_tfidf_072119.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/data/df_kav_w_tfidf_072119.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_3.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_3.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_4.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_4.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_5.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_5.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_6.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_6.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_7.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_7.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_8.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_8.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_9.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/media-level_tf_idf_cluster_centers_9.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../resources/tf-idf_encoder_1_Source_kav_0719.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/../resources/tf-idf_encoder_1_Source_kav_0719.pkl" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,8 +26,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gathering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1062">
-              <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
+            <state relative-caret-position="90">
+              <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -26,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="124" column="28" lean-forward="true" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
+            <state relative-caret-position="363">
+              <caret line="124" column="28" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
               <folding>
                 <element signature="e#71#90#0" expanded="true" />
               </folding>
@@ -83,6 +92,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -110,18 +120,18 @@
       <updated>1561494625333</updated>
       <workItem from="1561494629803" duration="287000" />
       <workItem from="1561605026740" duration="169000" />
-      <workItem from="1563725818493" duration="5750000" />
+      <workItem from="1563725818493" duration="5839000" />
+      <workItem from="1564435600443" duration="529000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6206000" />
+    <option name="totallyTimeSpent" value="6824000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21306472" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21550672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -150,15 +160,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gathering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1062">
-          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
+        <state relative-caret-position="90">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="124" column="28" lean-forward="true" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
+        <state relative-caret-position="363">
+          <caret line="124" column="28" selection-start-line="124" selection-start-column="28" selection-end-line="124" selection-end-column="28" />
           <folding>
             <element signature="e#71#90#0" expanded="true" />
           </folding>

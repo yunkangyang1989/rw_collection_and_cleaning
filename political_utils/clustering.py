@@ -154,3 +154,4 @@ def combine_on_source(data_frame):
             df.loc[len(df)] = (k, art, v, list_urls, num)
     return df
 
+

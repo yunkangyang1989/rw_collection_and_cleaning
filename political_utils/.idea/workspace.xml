@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="effe3af3-02ce-476f-9b6a-797c25519920" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/clustering.py" beforeDir="false" afterPath="$PROJECT_DIR$/clustering.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../clustering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../clustering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../downloading_articles.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../downloading_articles.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../politician_cueing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../politician_cueing.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +26,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/clustering.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="843">
-              <caret line="157" selection-start-line="157" selection-end-line="157" />
+            <state relative-caret-position="561">
+              <caret line="90" column="21" lean-forward="true" selection-start-line="70" selection-end-line="90" selection-end-column="21" />
               <folding>
                 <element signature="e#71#90#0" expanded="true" />
               </folding>
@@ -114,17 +115,18 @@
       <workItem from="1564435600443" duration="529000" />
       <workItem from="1564452498184" duration="214000" />
       <workItem from="1564520987895" duration="237000" />
+      <workItem from="1571092250664" duration="598000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7275000" />
+    <option name="totallyTimeSpent" value="7873000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22039072" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22283272" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -160,8 +162,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/clustering.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="843">
-          <caret line="157" selection-start-line="157" selection-end-line="157" />
+        <state relative-caret-position="561">
+          <caret line="90" column="21" lean-forward="true" selection-start-line="70" selection-end-line="90" selection-end-column="21" />
           <folding>
             <element signature="e#71#90#0" expanded="true" />
           </folding>

@@ -57,7 +57,8 @@ indicators = [
     'refuted',
     'rebuffed',
     'testified', 
-    'rejected'
+    'rejected',
+    'indicated'
 ]
 
 special_indicators = [
@@ -81,6 +82,9 @@ article1105 = 'Tammy Bruce called out Sen. Dianne Feinstein (D-Calif.) for how s
 
 result1105 = ['Dianne Feinstein','Tammy Bruce']
 
+article1106 = 'The Senate Judiciary Committee invited Judge Brett Kavanaugh and his accuser Christine Blasey Ford to a public hearing next week after decades-old sexual assault allegations surfaced. Multiple sources have told Fox News Thursday\'s committee confirmation vote has been postponed.\n\nCommittee Chairman Chuck Grassley, R-Iowa, said the hearing will "give these recent allegations a full airing."\n\n"As I said earlier, anyone who comes forward as Dr. Ford has done deserves to be heard," Grassley said in a statement Monday, which noted he had tried to have the panel\'s staff conduct phone interviews with both Kavanaugh and Ford.\n\nDemocrats, however, rejected the private interviews and wanted the FBI to investigate the allegations as part of the judge\'s background investigation.\n\nPresident Trump indicated earlier he was open to postponing the confirmation proceedings in Congress while allegations against Kavanaugh are investigated.\n\nWHO IS CHRISTINE BLASEY FORD, THE PROFESSOR WHO ACCUSED BRETT KAVANAUGH OF SEXUAL MISCONDUCT?\n\n"If it takes a little delay, it\'ll take a little delay," Trump said. "It shouldn\'t certainly be very much."\n\nKavanaugh has forcefully denied the sexual assault accusations Ford alleged took place while the two were in high school.\n\n"This is a completely false allegation. I have never done anything like what the accuser describes — to her or to anyone," Kavanaugh said in a statement. "Because this never happened, I had no idea who was making the accusation until she identified herself yesterday."\n\nSen. Jeff Flake, R-Ariz., on Monday said he "would have voted no" if a public hearing with Kavanaugh and Ford wasn\'t agreed to.\n\nFlake said Ford\'s allegations deserve to be heard, and said holding a hearing is the "best" and "only process we have."\n\nSharing similar sentiments, South Carolina Sen. Lindsey Graham said the confirmation proceedings can\'t go forward without listening to Ford.\n\n"Let\'s say that if for some reason [Kavanaugh\'s hearing] implodes next week, the system worked," Graham said.\n\nFox News\' Chad Pergram, Peter Doocy and Alex Pappas contributed to this report.'
+
+result1106 = ['mutiple sources','Chuck Grassley','President Trump','Kavanaugh','Jeff Flake','Lindsey Graham']
 
 
 

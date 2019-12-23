@@ -77,5 +77,12 @@ article1104 = 'Two former girlfriends of Supreme Court nominee Brett Kavanaugh s
 
 result1104 = ['@FoxNews','Fitzgerald','Kane','MacCallum']
 
+article1105 = 'Tammy Bruce called out Sen. Dianne Feinstein (D-Calif.) for how she handled a letter she received from a woman who has accused Supreme Court nominee Brett Kavanaugh of sexual assault.\n\nFeinstein, the top Democrat on the Senate Judiciary Committee, said last week that she turned the letter over to the FBI, after the committee had completed its hearings.\n\nThe letter -- which is dated July 30 and details Christine Blasey Ford\'s decades-old assault allegations against Kavanaugh -- was published by CNN on Sunday.\n\n"From the start here, Dianne Feinstein had an allegation that she says is credible, yet said and did nothing about it," Bruce said on "Fox & Friends" Monday. "She had interviews with Judge Kavanaugh, she didn\'t tell the committee, she didn\'t tell the FBI."\n\nSen. Kennedy: Kavanaugh Hearings Devolved Into \'Intergalactic Freakshow\'\n\nPirro: To Dems Like Feinstein, \'You\'re Guilty Until Proven Innocent\'\n\nBruce said that Feinstein waited to reveal the letter until Democrats\' other efforts at stalling or preventing Kavanaugh\'s confirmation failed.\n\n"So it was like a Hail Mary pass," Bruce said, calling it "effectively an attempted political assassination."\n\nShe said it\'s not fair to anyone involved to have a public trial of Kavanaugh based on "allegation and gossip," and Feinstein is essentially using an alleged victim\'s experience as a "political hatchet."\n\n"I worked on the Feinstein campaign in \'92, and shame on her for doing this, for having us have this conversation, for that woman now having to be in that position," Bruce said.\n\n"Now it\'s just in this political sea, and I don\'t think it helps any of us in this process."\n\nWatch more from "Fox & Friends" above.\n\n\'Four Pinocchios\': Benson Calls Out Kamala Harris, Hillary Clinton for \'Debunked Smear\' of Kavanaugh\n\nDiGenova on New Strzok-Page Texts: \'Walls Are Closing In\' on DOJ, FBI Officials\n\nSteyn on Tucker\'s Face-Off With Avenatti: The Lawyer Is \'Far More Famous\' Than His Client\n\nJudge Nap: Left-Wing Activists\' $1M Effort to Sway Susan Collins Will Backfire Politically'
+
+result1105 = ['Dianne Feinstein','Tammy Bruce']
+
+
+
+
 
 

@@ -175,6 +175,37 @@ article_115 = 'Debra Katz, attorney for Christine Blasey Ford, revealed Friday t
 
 result_115 = ['Katz','Lisa Banks']
 
+article_116 = 'Sunday on NBC’s “Meet the Press,” MSNBC host Chris Matthews said the way the Republican Party has handled Dr. Christine Blasey Ford’s allegations against Judge Brett Kavanaugh showed an “I Love Lucy”-era in thinking of women.\n\nMatthews said, “There’s something in the Republican conversation last week that was different than that, there’s sort of an ‘I Love Lucy’-era in thinking of women and the way they’re portrayed by it. Plow through it, no, it’s a person. I like the way Nikki Haley, when someone called her confused she said I don’t get confused. I think the fact that women are confused or mistaken as Orrin Hatch put it is really a problem for the Republicans with women.\n\nFollow Pam Key on Twitter @pamkeyNEN'
+
+result_116 = ['Chris Matthews']
+
+article_117 = 'CNN legal analyst Jeffrey Toobin said on Wednesday evening that Supreme Court nominee Brett Kavanaugh will get confirmed if Christine Blasey Ford, the Northern California psychology professor who has accused Kavanaugh of sexually assaulting her when they were teenagers, does not testify before the Senate Judiciary Committee on Monday.\n\n“If she refuses to testify on Monday, Kavanaugh is getting confirmed. Jeff Flake has said that. Susan Collins has said that,” Toobin said on Anderson Cooper 360. “If she maintains that this investigation is a sham and I’m not taking part, he is getting confirmed. Now that may not unfair. That may not be a good thing, a bad thing, I think that’s just factual.”\n\nToobin added that if Ford does testify, then “all the cards are thrown up in the air.”\n\n“He may well be confirmed anyway,” he continued. “But I think everybody should be clear about what the stakes are of her decision to come forward or not before the committee. It’s up or down.”\n\nOne of Ford’s lawyers, Lisa Banks, told CNN’s Cooper on Tuesday evening that Ford did not want to testify before an FBI investigation and was “not prepared” to do so before the Senate Judiciary Committee on Monday.\n\nSenate Judiciary Committee Chairman Chuck Grassley (R-IA) gave Ford a Friday morning (10 a.m.) deadline to decide whether she wants to testify on Monday and even offered to send committee staff to California if that would be more convenient for Ford.\n\nOn Wednesday evening, Banks, Ford’s lawyer, indicated that Ford wants “multiple witnesses” to be included in the hearing.\n\n“She continues to believe that a full non-partisan investigation of this matter is needed and she is willing to cooperate with the Committee,” Banks said in a statement. “However, the Committee’s stated plan to move forward with a hearing that has only two witnesses is not a fair or good faith investigation; there are multiple witnesses whose names have appeared publicly and should be included in any proceeding.”'
+
+result_117 = ['Jeffrey Toobin','Jeff Flake','Susan Collins','Lisa Banks']
+
+article_118 = 'Leftists are trying to kick the Senate confirmation for a Supreme Court nominee down field and past the November elections.\n\nThey have shown they will do so at any cost. While compelling emotionally, Christine Blasey Ford has no witnesses and no facts to back up her story.\n\nThere was no legitimate reason the allegations were not summarily evaluated, and a Judiciary Committee vote was taken last week.\n\nI was honored to be able to attend Friday’s Kavanaugh hearing – a hearing that should never have taken place. It was intense, dramatic, emotional, and outrageous, but nothing changed. The allegations are not sufficient to derail Judge Brett Kavanaugh’s nomination.\n\nLeftist law breaking, rule breaking, violence, and disruption have already marred the public Kavanaugh confirmation hearings. The Senate has allowed this circus to continue, and in the process has delayed a timely confirmation vote on Judge Kavanaugh.\n\nThe vote to confirm can’t come soon enough. That the Senate hasn’t voted yet is shameful.\n\nThe Senate Judiciary Committee issued a statement requesting that the administration instruct the FBI to conduct a supplemental FBI background investigation with respect to the nomination of Judge Brett Kavanaugh to be an Associate Justice on the Supreme Court.\n\nThe Senate request was for the FBI to investigation “credible allegations.” There are no “credible allegations.”\n\nNevertheless, President Trump authorized the supplemental investigation as requested.\n\nIf fairly conducted, this “supplemental investigation” could have been over yesterday. The Committee requested that the FBI investigation take no more than a week. This will not satisfy Leftists trying to destroy Kavanaugh.\n\nAfter witnessing the spectacle in person yesterday, the Senate owes Judge Kavanaugh an apology. And perhaps the best apology would be a vote finally to confirm him.\n\nTom Fitton is president of Judicial Watch.'
+
+result_118 = []
+
+article_119 = 'Sen. Kamala Harris (D-CA) said on Wednesday that President Donald Trump needs to “stop being mean” to Christine Blasey Ford, the California psychology professor who has accused Supreme Court nominee Brett Kavanaugh of sexual assault.\n\nAtlantic part-owner Laurene Powell Jobs asked Harris at The Atlantic Festival in Washington, DC, what she would say to Trump about president’s comments at a Tuesday evening Mississippi rally in which he mocked Ford’s lack of recollection of specific details about the alleged incident in question.\n\n“Stop being mean,” replied Harris, who sits on the Senate Judiciary Committee and questioned Kavanaugh and Ford.\n\n'I can't understand it and I'm embarrassed that the President of the United States would do that to this woman.' — @SenKamalaHarris just fired back at President Trump for mocking Dr. Christine Blasey Ford's testimony pic.twitter.com/4x6rYiNav1 — NowThis (@nowthisnews) October 3, 2018\n\nAfter describing Ford’s “very poignant, moving moment” in which Ford said she remembered Kavanaugh’s and Judge’s laughter during the alleged sexual assault attempt, Harris blasted Trump for his complete lack of empathy.\n\n“Now we have, last night, the president of the United States at a rally urging a crowd to laugh at her. I can’t think of anything more—inappropriate is not descriptive enough—it’s mean. It’s mean. It’s completely without any level of empathy,” Harris continued. “What was the purpose of saying that and doing that? I can’t understand it, and I’m embarrassed that the president of the United States would do that to this woman.”\n\nThe Atlantic noted that Harris “offered a preview” during the interview “of how she might respond to attacks from” Trump “if she runs against him in 2020: by appealing to Americans’ sense of compassion.”'
+
+result_119 = ['Kamala Harris','Laurene Powell Jobs','@SenKamalaHarris','@nowthisnews','The Atlantic']
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 

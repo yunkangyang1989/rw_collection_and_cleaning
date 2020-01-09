@@ -350,41 +350,7 @@ article_2493 = "Brett Kavanaugh has located his personal calendars from the summ
 
 result_2493 = ['the New York Times','Kavanaugh’s team','Blasey']
 
-article_2494 = 
 
-result_2494 = 
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
-
-article_2003
-
-result_2003
 
 
 
